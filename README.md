@@ -1,3 +1,23 @@
+Recurso para principiantes para React.
+
+## Recursos utilizados
+
+React.useState()
+React.useEffect()
+
+goncy-pattern para estructura el proyecto :D
+
+react-router-dom
+
+styled-components
+    transition
+    box-shadow
+
+Box-Shadow Generator [https://www.cssmatic.com/box-shadow](https://www.cssmatic.com/box-shadow)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
